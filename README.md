@@ -3,7 +3,7 @@ Ralev.com
 
 ###10.12.2014
 
-Learning Git
+#####Learning Git
   
   a.	Set up GitHub and activated 2FA for my account
   
