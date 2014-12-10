@@ -1,2 +1,4 @@
-﻿<?php
-echo "Hello World!";
+<?php
+$name = "Dido";
+echo "Hello {$name}!";
+
