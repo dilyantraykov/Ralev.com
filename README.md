@@ -10,3 +10,5 @@ Learning Git
   b.  Made my first repository
   
   c.  Forked my first repository
+  
+  d.	Synced my first repository 
