@@ -10,3 +10,4 @@ Ralev.com
   +	Forked my first repository
   +	Synced my first repository
   +	Learned some Markdwon basics
+  +	Going through some tutorials @ https://guides.github.com/ & https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-
