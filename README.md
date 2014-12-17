@@ -16,3 +16,6 @@ Ralev.com
 
   + Went through most of the github tutorials
   + Started the jQuery tutorials at http://try.jquery.com
+  
+###16.12.2014
+  + Started the JavaScript tutorial @ http://www.codecademy.com/en/tracks/javascript#_=_
