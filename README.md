@@ -1,9 +1,9 @@
 Ralev.com
 =========
 
-###10.12.2014
+###Learning Git
 
-#####Learning Git
+#####10.12.2014
   
   +	Set up GitHub and activated 2FA for my account
   +	Made my first repository
