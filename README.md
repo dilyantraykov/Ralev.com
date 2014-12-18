@@ -15,7 +15,14 @@ Ralev.com
 ###15.12.2014 (came back after the conference)
 
   + Went through most of the github tutorials
+
+#####JavaScript & jQuery
+
   + Started the jQuery tutorials at http://try.jquery.com
   
 ###16.12.2014
   + Started the JavaScript tutorial @ http://www.codecademy.com/en/tracks/javascript#_=_
+
+###17.12.2014
+  + Finished the try.jquery tutorials
+  + Starting some tutorials @ http://learnjavascript.co.uk/
