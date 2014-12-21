@@ -25,3 +25,7 @@ Ralev.com
   + Added SFTP, SublimeLinter, Emmet, Hayaku, Colorsublime, Themr, Color Highlighter
   + Went through the tutorials @ https://www.youtube.com/playlist?list=PLLnpHn493BHEYF4EX3sAhVG2rTqCvLnsP
   
+###Ubuntu
+
+  + Installed Oracle VM VirtualBox and configured Ununtu on it
+  + Playing around with the command line
