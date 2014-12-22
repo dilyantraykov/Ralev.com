@@ -29,3 +29,6 @@ Ralev.com
 
   + Installed Oracle VM VirtualBox and configured Ununtu on it
   + Playing around with the command line
+
+###MVC Pattern Understanding
+  + Went through the tutorials @ http://www.sitepoint.com/the-mvc-pattern-and-php-1/ , http://code.tutsplus.com/tutorials/mvc-for-noobs--net-10488 , http://blog.codinghorror.com/understanding-model-view-controller/
