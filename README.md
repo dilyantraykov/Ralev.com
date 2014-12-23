@@ -38,3 +38,4 @@ Ralev.com
 ###Ruby & Ruby on Rails
   + Started the tutorials @ http://tryruby.org/ & http://railsforzombies.org/
   + Configured my Ruby environment
+  + Started the [Ruby on Rails Guides](http://guides.rubyonrails.org/)
