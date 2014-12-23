@@ -9,6 +9,7 @@ Ralev.com
   +	Synced my first repository
   +	Learned some Markdown basics
   +	Went through most of the tutorials @ https://guides.github.com/ & https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-
+  +	Controlling my repository from the Ubuntu terminal
 
 ###JavaScript & jQuery
 
@@ -24,7 +25,7 @@ Ralev.com
   + Getting familiar with the Package Control
   + Added SFTP, SublimeLinter, Emmet, Hayaku, Colorsublime, Themr, Color Highlighter
   + Went through the tutorials @ https://www.youtube.com/playlist?list=PLLnpHn493BHEYF4EX3sAhVG2rTqCvLnsP
-  
+	
 ###Ubuntu
 
   + Installed Oracle VM VirtualBox and configured Ununtu on it
@@ -36,3 +37,4 @@ Ralev.com
 
 ###Ruby & Ruby on Rails
   + Started the tutorials @ http://tryruby.org/ & http://railsforzombies.org/
+  + Configured my Ruby environment
