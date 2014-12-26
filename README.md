@@ -23,9 +23,9 @@ Ralev.com
 
   + Installed Sublime Text 3
   + Getting familiar with the Package Control
-  + Added SFTP, SublimeLinter, Emmet, Hayaku, Colorsublime, Themr, Color Highlighter
+  + Added SFTP, SublimeLinter, Emmet, Hayaku, Colorsublime, Themr, Color Highlighter, LESS
   + Went through the tutorials @ https://www.youtube.com/playlist?list=PLLnpHn493BHEYF4EX3sAhVG2rTqCvLnsP
-	
+
 ###Ubuntu
 
   + Installed Oracle VM VirtualBox and configured Ununtu on it
@@ -36,6 +36,8 @@ Ralev.com
   + Went through the tutorials @ http://www.sitepoint.com/the-mvc-pattern-and-php-1/ , http://code.tutsplus.com/tutorials/mvc-for-noobs--net-10488 , http://blog.codinghorror.com/understanding-model-view-controller/
 
 ###Ruby & Ruby on Rails
-  + Started the tutorials @ http://tryruby.org/ & http://railsforzombies.org/
-  + Configured my Ruby environment
+  + [Configured my Ruby environment](http://ryanbigg.com/2014/10/ubuntu-ruby-ruby-install-chruby-and-you/)
+  + Finished the tutorials @ http://tryruby.org/ & http://railsforzombies.org/
+  + Finished the [RubyMonk Primer Tutorial](https://rubymonk.com/learning/books/1-ruby-primer)
   + Started the [Ruby on Rails Guides](http://guides.rubyonrails.org/)
+  + Finished the [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html) tutorial
