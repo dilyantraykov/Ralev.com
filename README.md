@@ -39,5 +39,6 @@ Ralev.com
   + [Configured my Ruby environment](http://ryanbigg.com/2014/10/ubuntu-ruby-ruby-install-chruby-and-you/)
   + Finished the tutorials @ http://tryruby.org/ & http://railsforzombies.org/
   + Finished the [RubyMonk Primer Tutorial](https://rubymonk.com/learning/books/1-ruby-primer)
-  + Started the [Ruby on Rails Guides](http://guides.rubyonrails.org/)
+  + Finished the [Ruby on Rails Guides](http://guides.rubyonrails.org/)
   + Finished the [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html) tutorial
+  + Starting the [Tutorialspoint RoR tutorial](http://www.tutorialspoint.com/ruby-on-rails/index.htm)
