@@ -44,5 +44,5 @@ Ralev.com
   + Finished the [Tutorialspoint Ruby tutorial](http://www.tutorialspoint.com/ruby/)
   + Finished the tutorials @ http://tryruby.org/ & http://railsforzombies.org/ ![](http://s30.postimg.org/pg9oe3b7l/tryruby.jpg) ![](http://s30.postimg.org/ibrv523y9/rfz.jpg)
   + Finished the [RubyMonk Primer Tutorial](https://rubymonk.com/learning/books/1-ruby-primer)
-  + Finished the [Ruby on Rails Guides](http://guides.rubyonrails.org/)
+  + Going through the [Ruby on Rails Guides](http://guides.rubyonrails.org/index.html)
   + Finished the [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html) tutorial
