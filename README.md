@@ -13,11 +13,15 @@ Ralev.com
 
 ###JavaScript & jQuery
 
-  + Started the jQuery tutorials at http://try.jquery.com
-  + Started the JavaScript tutorial @ http://www.codecademy.com/en/tracks/javascript#_=_
   + Finished the try.jquery tutorials ![Finished try.jQuery tutorial](http://s22.postimg.org/4ra1o5rxt/jquery.png)
   + Starting some tutorials @ http://learnjavascript.co.uk/
   + Finished the CodeCademy JavaScript tutorial ![Finished CodeCademy Javascript tutorial](http://s17.postimg.org/yc5y222jz/image.png)
+  + Finished the [Tutorialspoint jQuery UI Tutorial](http://www.tutorialspoint.com/jqueryui/index.htm)
+ 
+###LESS
+
+  + Went through [this LESS tutorial](http://verekia.com/less-css/dont-read-less-css-tutorial-highly-addictive)
+  + Learned to compile less files in both the command-line and Sublime Text
 
 ###Bootstrap 3
 
@@ -42,8 +46,8 @@ Ralev.com
 
 ###Ruby & Ruby on Rails
   + [Configured my Ruby environment](http://ryanbigg.com/2014/10/ubuntu-ruby-ruby-install-chruby-and-you/)
-  + Finished the tutorials @ http://tryruby.org/ & http://railsforzombies.org/
+  + Finished the [Tutorialspoint Ruby tutorial](http://www.tutorialspoint.com/ruby/)
+  + Finished the tutorials @ http://tryruby.org/ & http://railsforzombies.org/ ![](http://s30.postimg.org/pg9oe3b7l/tryruby.jpg) ![](http://s30.postimg.org/ibrv523y9/rfz.jpg)
   + Finished the [RubyMonk Primer Tutorial](https://rubymonk.com/learning/books/1-ruby-primer)
-  + Finished the [Ruby on Rails Guides](http://guides.rubyonrails.org/)
+  + Going through the [Ruby on Rails Guides](http://guides.rubyonrails.org/index.html)
   + Finished the [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html) tutorial
-  + Starting the [Tutorialspoint RoR tutorial](http://www.tutorialspoint.com/ruby-on-rails/index.htm)
