@@ -19,6 +19,10 @@ Ralev.com
   + Starting some tutorials @ http://learnjavascript.co.uk/
   + Finished the CodeCademy JavaScript tutorial ![Finished CodeCademy Javascript tutorial](http://s17.postimg.org/yc5y222jz/image.png)
 
+###Bootstrap 3
+
+  + Going through the [W3C Tutorial](http://www.w3schools.com/bootstrap/default.asp)
+
 ###Sublime Text
 
   + Installed Sublime Text 3
@@ -30,6 +34,7 @@ Ralev.com
 
   + Installed Oracle VM VirtualBox and configured Ununtu on it
   + Playing around with the command line
+  + Watched the [Command Line Basics Tutorial](https://www.youtube.com/playlist?list=PLLnpHn493BHGmEYzbjWPJsnRMhvs-PSYG)
   + Decided to actually install Ubuntu alongside my Windows installation (my parents still need to use it)
 
 ###MVC Pattern Understanding
