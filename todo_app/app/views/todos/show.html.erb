@@ -1,0 +1,19 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <strong>Title:</strong>
+  <%= @todo.title %>
+</p>
+
+<p>
+  <strong>Notes:</strong>
+  <%= @todo.notes %>
+</p>
+
+<%= link_to edit_todo_path(@todo), class: 'btn btn-success btn-sm' do %>
+<i class="fa fa-edit"></i>&nbsp; Edit
+<% end %>
+
+<%= link_to todos_path, class: 'btn btn-info btn-sm' do %>
+<i class="fa fa-reply"></i>&nbsp; Back
+<% end %>
