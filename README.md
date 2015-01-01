@@ -10,6 +10,7 @@ Ralev.com
   +	Learned some Markdown basics
   +	Went through most of the tutorials @ https://guides.github.com/ & https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-
   +	Controlling my repository from the Ubuntu terminal
+  +	Set up my SSH authentication thanks to https://help.github.com/articles/generating-ssh-keys/ & http://guides.beanstalkapp.com/version-control/tips-for-using-ssh-keys.html
 
 ###JavaScript & jQuery
 
@@ -51,3 +52,4 @@ Ralev.com
   + Finished the [RubyMonk Primer Tutorial](https://rubymonk.com/learning/books/1-ruby-primer)
   + Going through the [Ruby on Rails Guides](http://guides.rubyonrails.org/index.html)
   + Finished the [Getting Started with Rails](http://guides.rubyonrails.org/getting_started.html) tutorial
+  + Implemented Bootstrap+FontAwesome (LESS variant) in Rails App
