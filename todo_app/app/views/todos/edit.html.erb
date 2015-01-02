@@ -1,0 +1,11 @@
+<h1><i class="fa fa-edit"></i>&nbsp; Editing todo</h1>
+
+<%= render 'form' %>
+
+<%= link_to @todo, class: 'btn btn-success btn-sm' do %>
+<i class="fa fa-eye"></i>&nbsp; Show
+<% end %>
+
+<%= link_to todos_path, class: 'btn btn-info btn-sm' do %>
+<i class="fa fa-reply"></i>&nbsp; Back
+<% end %>
