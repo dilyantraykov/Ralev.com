@@ -1,7 +1,7 @@
 Ralev.com
 =========
 
-###Learning Git
+###[Learning Git](http://git-scm.com/book/en/v2)
   
   +	Set up GitHub and activated 2FA for my account
   +	Made my first repository
