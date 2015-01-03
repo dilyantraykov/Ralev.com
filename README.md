@@ -12,7 +12,7 @@ Ralev.com
   +	Controlling my repository from the Ubuntu terminal
   +	Set up my SSH authentication thanks to https://help.github.com/articles/generating-ssh-keys/ & http://guides.beanstalkapp.com/version-control/tips-for-using-ssh-keys.html
 
-###JavaScript & jQuery
+###[JavaScript](http://www.w3schools.com/js/default.asp) & [jQuery](http://www.w3schools.com/jquery/default.asp)
 
   + Finished the try.jquery tutorials ![Finished try.jQuery tutorial](http://s22.postimg.org/4ra1o5rxt/jquery.png)
   + Starting some tutorials @ http://learnjavascript.co.uk/
