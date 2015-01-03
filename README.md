@@ -18,6 +18,7 @@ Ralev.com
   + Starting some tutorials @ http://learnjavascript.co.uk/
   + Finished the CodeCademy JavaScript tutorial ![Finished CodeCademy Javascript tutorial](http://s17.postimg.org/yc5y222jz/image.png)
   + Finished the [Tutorialspoint jQuery UI Tutorial](http://www.tutorialspoint.com/jqueryui/index.htm)
+  + Going through jQuery Documentation for [DOM Manipulation](http://api.jquery.com/category/manipulation/) & [Ajax integration](http://api.jquery.com/category/ajax/)
  
 ###LESS
 
