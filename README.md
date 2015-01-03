@@ -32,7 +32,7 @@ Ralev.com
 
   + Installed Sublime Text 3
   + Getting familiar with the Package Control
-  + Added SFTP, SublimeLinter, [Emmet](https://scotch.io/tutorials/write-html-crazy-fast-with-emmet-an-interactive-guide), Hayaku, Colorsublime, Themr, Color Highlighter, LESS, Git, GitGutter, SidebarEnhancements
+  + Added SFTP, SublimeLinter, [Emmet](https://scotch.io/tutorials/write-html-crazy-fast-with-emmet-an-interactive-guide), Hayaku, Colorsublime, Themr, Color Highlighter, LESS, [Git](https://scotch.io/tutorials/using-git-inside-of-sublime-text-to-improve-workflow), GitGutter, SidebarEnhancements
   + Went through the tutorials @ https://www.youtube.com/playlist?list=PLLnpHn493BHEYF4EX3sAhVG2rTqCvLnsP
   + [Best of Sublime Text 3](https://scotch.io/bar-talk/best-of-sublime-text-3-features-plugins-and-settings)
 
