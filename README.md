@@ -11,6 +11,7 @@ Ralev.com
   +	Went through most of the tutorials @ https://guides.github.com/ & https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-
   +	Controlling my repository from the Ubuntu terminal
   +	Set up my SSH authentication thanks to https://help.github.com/articles/generating-ssh-keys/ & http://guides.beanstalkapp.com/version-control/tips-for-using-ssh-keys.html
+  +	[Creating, merging and deleting branches](http://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging)
 
 ###[JavaScript](http://www.w3schools.com/js/default.asp) & [jQuery](http://www.w3schools.com/jquery/default.asp)
 
