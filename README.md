@@ -18,7 +18,9 @@ Ralev.com
   + Finished the try.jquery tutorials ![Finished try.jQuery tutorial](http://s22.postimg.org/4ra1o5rxt/jquery.png)
   + Starting some tutorials @ http://learnjavascript.co.uk/
   + Finished the CodeCademy JavaScript tutorial ![Finished CodeCademy Javascript tutorial](http://s17.postimg.org/yc5y222jz/image.png)
+  + [jQuery UI Getting Started Tutorials](http://learn.jquery.com/jquery-ui/)
   + Finished the [Tutorialspoint jQuery UI Tutorial](http://www.tutorialspoint.com/jqueryui/index.htm)
+  + [Studying Isotope](http://isotope.metafizzy.co/#getting-started)
   + Going through jQuery Documentation for [DOM Manipulation](http://api.jquery.com/category/manipulation/) & [Ajax integration](http://api.jquery.com/category/ajax/)
  
 ###LESS
