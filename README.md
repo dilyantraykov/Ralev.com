@@ -28,6 +28,7 @@ Ralev.com
 ###Bootstrap 3
 
   + Went through the [W3C Tutorial](http://www.w3schools.com/bootstrap/default.asp)
+  + [Integrating Bootstrap into a Rails application](https://github.com/seyhunak/twitter-bootstrap-rails)
 
 ###Sublime Text
 
